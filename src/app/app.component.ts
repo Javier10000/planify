@@ -8,5 +8,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Planify-Angular_Javi';
+  nombre = 'Planify-Angular_Javi';
+  edad = 12
 }
